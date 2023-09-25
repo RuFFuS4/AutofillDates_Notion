@@ -1,4 +1,4 @@
 export interface DatabaseNotion {
-    id: string;
+    id?: string;
     name: string;
 }
